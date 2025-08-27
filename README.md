@@ -19,7 +19,7 @@ The project covers:
 
 ## Data
 
-Raw data files for bike share usage and cost information are included in the [`data/`](data/) folder as CSV files.
+Raw data files for bike share usage and cost information are included in the [`file/`] folder as CSV files.
 
 ---
 
