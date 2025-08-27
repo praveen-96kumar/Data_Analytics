@@ -1,6 +1,6 @@
 # End-to-End Bike Share Data Analysis Project (2024)
 
-This project is a beginner-friendly end-to-end data analysis workflow demonstrating how to use SQL and Power BI to analyze a bike share dataset to answer a key business question about pricing and profitability.
+This project is an end-to-end data analysis workflow demonstrating how to use SQL and Power BI to analyze a bike share dataset to answer a key business question about pricing and profitability.
 
 ---
 
@@ -25,7 +25,7 @@ Raw data files for bike share usage and cost information are included in the [`d
 
 ## SQL Scripts
 
-The [`sql/`](sql/) folder contains scripts for:
+The pbix file contains scripts for:
 - Creating the necessary database schema and tables (`create_tables.sql`)
 - Importing raw data into SQL tables (`import_data.sql`)
 - Running analysis queries that calculate revenue, profit, and other KPIs (`analysis_queries.sql`)
@@ -34,7 +34,7 @@ The [`sql/`](sql/) folder contains scripts for:
 
 ## Power BI Dashboard
 
-The Power BI dashboard file [`powerbi/BikeShare_Dashboard.pbix`](powerbi/BikeShare_Dashboard.pbix) connects to the SQL database and visualizes key performance metrics such as:
+The Power BI dashboard file [`powerbi/BikeShare_Dashboard.pbix`](https://github.com/praveen-96kumar/Data_Analytics/blob/main/DashBoard.png) connects to the SQL database and visualizes key performance metrics such as:
 
 - Hourly revenue analysis
 - Profit and revenue trends over time
@@ -69,8 +69,3 @@ The Power BI dashboard file [`powerbi/BikeShare_Dashboard.pbix`](powerbi/BikeSha
 - Revenue and profit both showed significant growth.
 - This suggests there's room for a price increase next year.
 
----
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
