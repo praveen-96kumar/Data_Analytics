@@ -1,4 +1,4 @@
-# End-to-End Bike Share Data Analysis Project (2024)
+# End-to-End Bike Share Data Analysis Project
 
 This project is an end-to-end data analysis workflow demonstrating how to use SQL and Power BI to analyze a bike share dataset to answer a key business question about pricing and profitability.
 
